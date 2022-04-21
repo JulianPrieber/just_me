@@ -15,8 +15,6 @@ body{
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     display: flex;
-    min-height: 75vh;
-    min-width: 100vw;
     flex-direction: column;
 
 }
